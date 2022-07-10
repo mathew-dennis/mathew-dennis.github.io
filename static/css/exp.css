@@ -1,0 +1,12 @@
+.editor-project-content {
+      display: flex;
+}
+
+
+.project-content-left {
+    width: 400px;
+    margin-left: 25px;
+}
+.project-content-right {
+    width: 400px;
+}
