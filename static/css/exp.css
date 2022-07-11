@@ -1,4 +1,3 @@
-.page-header.is-fixed{position:fixed;top:0;left:0;z-index:999;margine:10px;-webkit-box-shadow:0 2px 4px 0 #424242;box-shadow:0 2px 4px 0 #424242}
 .editor-project-content {
       display: flex;
 }
@@ -6,8 +5,9 @@
 
 .project-content-left {
     width: 400px;
-    margin-left: 25px;
+    margin-left: 55px;
 }
 .project-content-right {
     width: 400px;
+    margin-left: 55px;
 }
