@@ -1,7 +1,9 @@
 .editor-project-content {
       display: flex;
 }
-
+.promo {
+    padding-top: 170px;
+}
 
 .project-content-left {
     width: 400px;
