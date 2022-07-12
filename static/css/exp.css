@@ -1,12 +1,10 @@
+.promo {
+    padding-top: 170px;
+    background-attachment: scroll;
+}
 .editor-project-content {
       display: flex;
 }
-.promo {
-    padding-top: 170px;
-    background: #323232 url(../images/main-bg.jpg) center;
-    background-attachment: scroll;
-}
-
 .project-content-left {
     width: 400px;
     margin-left: 55px;
