@@ -3,6 +3,8 @@
 }
 .promo {
     padding-top: 170px;
+    background: #323232 url(../images/main-bg.jpg) center;
+    background-attachment: scroll;
 }
 
 .project-content-left {
