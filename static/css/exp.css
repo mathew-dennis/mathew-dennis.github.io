@@ -1,24 +1,32 @@
+p{
+    margin:2px;
+}
 .editor-project-content {
       display: flex;
 }
 .promo {
     padding-top: 170px;
-    background-attachment: scroll;
+     background-attachment: scroll;
 }
+
 
 .project-content-left {
     min-width: 360px;
+    max-width: 620px;
+
     margin: 25px;
 }
 .project-content-right {
     min-width: 360px;
+    max-width: 620px;
+
     margin: 25px;
 
 }
 .container{
-    border-left: 0px;
+    border: 0px;
     border-style: solid;
-    border-color: white;
+    border-color: black;
     overflow: hidden;
     display: flex;
 
@@ -48,8 +56,18 @@
     */ 
 }
 
-
 .seprator{
     padding:2px;
 }
+
+.editor-project-content-3x {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.project-content-element {
+    min-width: 360px;
+    max-width: 360px;
+
+    margin: 25px;
 }
