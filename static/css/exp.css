@@ -68,6 +68,6 @@ p{
 .project-content-element {
     min-width: 50px;
     max-width: 360px;
-    flex-basis: 100%
+    flex-basis: 100%;
     margin: 25px;
 }
