@@ -66,8 +66,8 @@ p{
     flex-wrap: wrap;
 }
 .project-content-element {
-    min-width: 360px;
+    min-width: 50px;
     max-width: 360px;
-
+    flex-basis: 100%
     margin: 25px;
 }
