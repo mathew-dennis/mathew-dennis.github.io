@@ -64,6 +64,7 @@ p{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 .project-content-element {
     min-width: 50px;
